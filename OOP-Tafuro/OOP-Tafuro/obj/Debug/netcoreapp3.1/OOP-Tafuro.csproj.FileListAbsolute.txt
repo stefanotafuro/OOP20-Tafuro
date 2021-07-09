@@ -1,0 +1,4 @@
+C:\Users\Tafuro\source\repos\OOP-Tafuro\OOP-Tafuro\obj\Debug\netcoreapp3.1\OOP-Tafuro.csprojAssemblyReference.cache
+C:\Users\Tafuro\source\repos\OOP-Tafuro\OOP-Tafuro\obj\Debug\netcoreapp3.1\OOP-Tafuro.AssemblyInfoInputs.cache
+C:\Users\Tafuro\source\repos\OOP-Tafuro\OOP-Tafuro\obj\Debug\netcoreapp3.1\OOP-Tafuro.AssemblyInfo.cs
+C:\Users\Tafuro\source\repos\OOP-Tafuro\OOP-Tafuro\obj\Debug\netcoreapp3.1\OOP-Tafuro.csproj.CoreCompileInputs.cache
